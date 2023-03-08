@@ -14,7 +14,7 @@ namespace AdventOfCode2021
 
         public Day1()
         {
-            _input = File.ReadAllLines(@"Day1Input.txt");
+            _input = File.ReadAllLines(@"Inputs/Day1Input.txt");
 
             foreach (var line in _input)
             {
