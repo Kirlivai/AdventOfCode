@@ -10,14 +10,10 @@ namespace AdventOfCode2021
     {
         private string[] _input;
 
-
         public Day6()
         {
             _input = File.ReadAllLines(@"Inputs/Day6Input.txt");
-            Parse();
         }
-
-
 
         public void RunPart1()
         {
