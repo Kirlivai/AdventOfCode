@@ -1,6 +1,6 @@
 ﻿using AdventOfCode2021;
 
-var day = new Day19();
+var day = new Day20();
 
 day.RunPart1();
 day.RunPart2();
