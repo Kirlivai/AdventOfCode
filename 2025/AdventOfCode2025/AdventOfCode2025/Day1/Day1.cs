@@ -73,7 +73,7 @@ public class Day1 : IDay
                 dial -= distance;
                 if (dial <= 0)
                 {
-                    counter += (Math.Abs(dial) + 100) / 100;
+                    counter += (Math.Abs(dial) + 100) / 100 ;
                 }
 
             }
