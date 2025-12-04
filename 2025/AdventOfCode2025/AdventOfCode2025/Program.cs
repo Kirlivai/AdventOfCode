@@ -1,9 +1,7 @@
-﻿using AdventOfCode2025.Day1;
+﻿using AdventOfCode2025;
 
-var day = new Day1();
+var day = new Day2();
 
 day.RunPart1();
 
 day.RunPart2();
-
-day.RunPart22();
